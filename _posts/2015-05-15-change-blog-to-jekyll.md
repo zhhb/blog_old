@@ -16,7 +16,7 @@ var ability = {
     'cognitive ability'       :'excellent', //大家都说认知能力是智商高的表现
     'independent thinking'    :'excellent', //不是有句话叫做 "我思故我在" 嘛
     'problem dealing'         :'excellent', //搞定问题才能愉快的一起玩耍
-    'cooperation capabilities':'excellent'  //合作就是要让别人和自己都舒服😌
+    'cooperation capabilities':'excellent', //合作就是要让别人和自己都舒服😌
     'management'              :'good'       //管好自己容易，管好别人难～
 }
 
@@ -53,11 +53,15 @@ var myself = Object.create(ability,{
             'Jetty'     :'ok',
             'Git'       :'very good', //代码管理全靠它了
             'Subversion':'good',      //什么？你还在用它 😱
-            'Bash'      :'good'
+            'Bash'      :'good',      //这个大家都知道
+            'Mysql'     :'good',
+            'Mongodb'   :'ok',        //公司不用啊，都生疏了
+            'Oracle DB' :'ok',        //已经成为回忆了
+            'SQL Server':'ok'         //用它的一般都是土豪
         }    
     }
 });
-
+console.table(myself);
 {% endhighlight %}
 
 <!-- Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].

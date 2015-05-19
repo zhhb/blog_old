@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Change blog to Jekyll!"
+title:  "Hello Jekyll"
 date:   2015-05-15 10:49:48
-categories: hello Jekyll
+categories: Hello
 ---
 最近终于有点空闲的时间了，好久没写的blog也基本荒废了，思索着hexo的各种不好用，果断的换成了Jekyll
 

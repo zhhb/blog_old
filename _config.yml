@@ -1,7 +1,7 @@
 # Site settings
 title: Tobbyn
 email: z85146549@163.com
-description: 修行就是该干嘛干嘛，好好吃饭，好好睡觉，认真做事，和周围的人开开心心，然后有一份好的收入️
+description: 修行就是该干嘛干嘛，好好吃饭，好好睡觉，认真做事，和周围的人开开心心，然后有一份好的收入
 # the subpath of your site, e.g. /blog/
 baseurl: ""
 # the base hostname & protocol for your site

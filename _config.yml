@@ -1,10 +1,7 @@
 # Site settings
 title: Tobbyn
 email: z85146549@163.com
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+description: 修行就是该干嘛干嘛，好好吃饭，好好睡觉，认真做事，和周围的人开开心心，然后有一份好的收入
 # the subpath of your site, e.g. /blog/
 baseurl: ""
 # the base hostname & protocol for your site
